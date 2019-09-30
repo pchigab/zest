@@ -1,0 +1,9 @@
+
+#ifndef _KESPA_H_57B6285B6240D7B41E62128AE24D5908_
+#define _KESPA_H_57B6285B6240D7B41E62128AE24D5908_
+
+#include "zISC.h"
+//#include "KT/TeamMember.h"
+//#include "JinAir/TeamMember.h"
+
+#endif // _KESPA_H_57B6285B6240D7B41E62128AE24D5908_
