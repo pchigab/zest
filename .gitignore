@@ -5,3 +5,7 @@
 Solution
 bin
 lib
+
+ios.sh
+macos.sh
+windows.bat
